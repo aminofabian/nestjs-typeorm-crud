@@ -1,0 +1,3 @@
+# nestjs-typeorm-crud
+In this document, we have covered the basics of getting started with NestJS and creating a simple CRUD application using TypeORM. However, there is still so much more to explore and learn in this powerful framework. So, don't stop here! Keep experimenting and playing around with your code to discover all the amazing features that NestJS has to offer. And who knows, you might just become a NestJS pro in no time!
+Now that you have the foundational knowledge and understanding of NestJS, you can confidently start creating more complex and robust applications. You can also check out the official NestJS documentation for more detailed explanations and examples. We hope this guide has been helpful to get you started on your journey with NestJS.
